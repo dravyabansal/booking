@@ -6,7 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+body{
+  background-color: #15053e;
+  color: #d2d5db;
+  overflow-x:hidden;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
